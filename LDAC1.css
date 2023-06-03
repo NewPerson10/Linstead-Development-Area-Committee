@@ -209,7 +209,7 @@
   display: none; /* For Chrome, Safari, and Opera */
 }
 .horizontal-scroll img{
-    width:400px;
+    width:600px;
     height: 50vh;
     padding: 1%;
     border-radius: 100px;
